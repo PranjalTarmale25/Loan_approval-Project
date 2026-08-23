@@ -1,0 +1,43 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+
+<<<<<<< HEAD
+=======
+    /* Bundler mode */
+>>>>>>> 505d9302d99ef405e23595f6fc98f794479377f4
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "isolatedModules": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+<<<<<<< HEAD
+=======
+    /* Path alias — depth-invariant imports for src (@/foo === src/foo from any file) */
+>>>>>>> 505d9302d99ef405e23595f6fc98f794479377f4
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    },
+
+<<<<<<< HEAD
+=======
+    /* Linting */
+>>>>>>> 505d9302d99ef405e23595f6fc98f794479377f4
+    "strict": true,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noFallthroughCasesInSwitch": true
+  },
+  "include": ["src"]
+<<<<<<< HEAD
+}
+=======
+}
+>>>>>>> 505d9302d99ef405e23595f6fc98f794479377f4
